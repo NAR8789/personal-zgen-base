@@ -6,12 +6,13 @@ zgen oh-my-zsh plugins/dircycle
 zgen oh-my-zsh plugins/dirhistory
 zgen oh-my-zsh plugins/last-working-dir
 zgen oh-my-zsh plugins/fasd
+zgen oh-my-zsh plugins/shrink-path
 
 zgen oh-my-zsh plugins/git
 
 zgen load djui/alias-tips
-zgen load nar8789/personal-shell-configs
 zgen load olivierverdier/zsh-git-prompt
+zgen load nar8789/personal-shell-configs
 # ^ currently required by personal-shell-configs, for my prompt setting.
 # TODO: remove this, or make zsh-git-prompt setup easier. (at the moment setup requires python or haskell or something
 # and potentially a compile step)
