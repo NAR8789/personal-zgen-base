@@ -12,7 +12,7 @@ zgen oh-my-zsh plugins/git
 
 zgen load djui/alias-tips
 zgen load nar8789/zsh-git-prompt . git-super-status-as-template-string
-zgen load nar8789/personal-shell-configs
+zgen load nar8789/personal-shell-configs . experimental-git-prompt
 
 # I think maybe these need to be included last..... we'll see
 zgen load zsh-users/zsh-completions
