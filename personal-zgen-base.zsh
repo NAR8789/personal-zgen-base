@@ -1,4 +1,5 @@
 zgen load nar8789/oh-my-zsh-preamble
+CASE_SENSITIVE=true
 zgen oh-my-zsh
 
 # navigation plugins
