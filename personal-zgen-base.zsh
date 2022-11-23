@@ -12,7 +12,7 @@ zgen oh-my-zsh plugins/shrink-path
 zgen oh-my-zsh plugins/git
 
 zgen load djui/alias-tips
-zgen load nar8789/zsh-git-prompt
+# zgen load nar8789/zsh-git-prompt  # currently broken in worktrees
 zgen load nar8789/personal-shell-configs
 
 # I think maybe these need to be included last..... we'll see
